@@ -9,7 +9,7 @@ redirect_from:
 
 I am a fourth-year undergraduate student at the [School of Computer Science and Technology](https://cs.bjtu.edu.cn/) at [Beijing Jiaotong University](https://www.bjtu.edu.cn/). I received a postgraduate recommendation and am currently interning at the [WeiXin Group](https://topd.tencent.com/career/company/tencent/WXG) at [Tencent Inc.](https://www.tencent.com/en-us/about.html). My research interests include Natural Language Processing (NLP), Audio and Speech Processing and Multimodal Models.
 
-I am fortunate to be advised by [Prof. Jinan Xu](https://faculty.bjtu.edu.cn/8300/) and [Assistant Prof. Yufeng Chen](https://faculty.bjtu.edu.cn/8754/) of NLP Lab from [School of Computer Science and Technology](https://cs.bjtu.edu.cn/) during my postgraduate studies.
+I am fortunate to be advised by [Prof. Jinan Xu](https://faculty.bjtu.edu.cn/8300/) and [Assoc. Prof. Yufeng Chen](https://faculty.bjtu.edu.cn/8754/) of NLP Lab from [School of Computer Science and Technology](https://cs.bjtu.edu.cn/) during my postgraduate studies.
 
 ---
 
