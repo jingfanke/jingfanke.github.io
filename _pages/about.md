@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year undergraduate student at [School of Computer Science and Technology](https://cs.bjtu.edu.cn/), [Beijing Jiaotong University](https://www.bjtu.edu.cn/). I have received a postgraduate recommendation and am currently interning at [WeiXin Group](https://topd.tencent.com/career/company/tencent/WXG), [Tencent Inc.](https://www.tencent.com/en-us/about.html). My research interests include Natural Language Processing (NLP), Audio and Speech Processing and Multimodal Models.
+I am a fourth-year undergraduate student at [School of Computer Science and Technology](https://cs.bjtu.edu.cn/), [Beijing Jiaotong University](https://www.bjtu.edu.cn/). I have received a postgraduate recommendation and am currently interning at [WeiXin Group](https://topd.tencent.com/career/company/tencent/WXG), [Tencent Inc.](https://www.tencent.com/en-us/about.html). 
+
+My research interests include **Natural Language Processing (NLP)**, **Audio and Speech Processing**, **Large Language Models (LLMs)**, and **Multimodal Models**.
 
 I am fortunate to be advised by [Prof. Jinan Xu](https://faculty.bjtu.edu.cn/8300/) and [Assoc. Prof. Yufeng Chen](https://faculty.bjtu.edu.cn/8754/) of NLP Lab from [School of Computer Science and Technology](https://cs.bjtu.edu.cn/), [Beijing Jiaotong University](https://www.bjtu.edu.cn/) during my postgraduate studies.
 
@@ -30,4 +32,7 @@ I am fortunate to be advised by [Prof. Jinan Xu](https://faculty.bjtu.edu.cn/830
 * *September 2024 - Present:* Internship
   * [WeiXin Group](https://topd.tencent.com/career/company/tencent/WXG), [Tencent Inc.](https://www.tencent.com/en-us/about.html)
   * Focus: Research in multimodal interaction for large language models (LLMs)
-  
+
+---
+
+You can find my Chinese CV here: [柯劲帆-简历](../assets/柯劲帆-简历.pdf) (updated as of September 2024).
