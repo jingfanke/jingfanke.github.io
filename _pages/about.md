@@ -36,3 +36,5 @@ I am fortunate to be advised by [Prof. Jinan Xu](https://faculty.bjtu.edu.cn/830
 ---
 
 You can find my Chinese CV here: [柯劲帆-简历](../assets/柯劲帆-简历.pdf) (updated as of September 2024).
+
+I also built a git platform to share my homework during my undergraduate studies. You can find it [here](https://typingbugs.email/gitea/explore/repos).
