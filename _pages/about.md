@@ -30,7 +30,7 @@ I am fortunate to be advised by [Prof. Jinan Xu](https://faculty.bjtu.edu.cn/830
   * Supervisor: [Prof. Ruiping Wang](http://www.ict.cas.cn/sourcedb/cn/jssrck/201211/t20121113_3682430.html)
 
 * *September 2024 - Present:* Internship
-  * [WeiXin Group](https://topd.tencent.com/career/company/tencent/WXG), [Tencent Inc.](https://www.tencent.com/en-us/about.html)
+  * Pattern Recognition Center, WeiChat AI, [Tencent Inc.](https://www.tencent.com/en-us/about.html), China
   * Focus: Research in multimodal interaction for Large Language Models
 
 ---
