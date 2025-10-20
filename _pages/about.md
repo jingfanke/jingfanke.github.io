@@ -7,34 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year undergraduate student at [School of Computer Science and Technology](https://cs.bjtu.edu.cn/), [Beijing Jiaotong University](https://www.bjtu.edu.cn/). I have received a postgraduate recommendation and am currently interning at [WeiXin Group](https://topd.tencent.com/career/company/tencent/WXG), [Tencent Inc.](https://www.tencent.com/en-us/about.html). 
+I am a first-year M.S. candidate in the [School of Computer Science and Technology](https://cs.bjtu.edu.cn/), [Beijing Jiaotong University](https://www.bjtu.edu.cn/). I am currently a member of the **Beijing Key Laboratory of Traffic Data Analysis and Mining**, advised by [Assoc. Prof. Yufeng Chen](https://faculty.bjtu.edu.cn/8754/) and [Assis. Prof. Kaiyu Huang](https://faculty.bjtu.edu.cn/10144/). 
 
-My research interests include **Natural Language Processing (NLP)**, **Audio and Speech Processing**, **Large Language Models (LLMs)**, and **Multimodal Models**.
-
-I am fortunate to be advised by [Prof. Jinan Xu](https://faculty.bjtu.edu.cn/8300/) and [Assoc. Prof. Yufeng Chen](https://faculty.bjtu.edu.cn/8754/) of NLP Lab from [School of Computer Science and Technology](https://cs.bjtu.edu.cn/), [Beijing Jiaotong University](https://www.bjtu.edu.cn/) during my postgraduate studies.
+My research interests lie in **Natural Language Processing (NLP)**, with a particular focus on **Multilingual Reasoning** and the capabilities of **Large Language Models (LLMs)** in cross-lingual understanding.
 
 ---
 
 **Education**
 
-* M.S. in Engineering, Beijing Jiaotong University, 2028 (expected) (recommended)
-* B.S. in Engineering, Beijing Jiaotong University, 2025 (expected)
+* M.S. in Engineering, Beijing Jiaotong University, Expected 2028
+* B.S. in Engineering, Beijing Jiaotong University, 2025
 
 ---
 
-**Work experience**
+**Industry Experience**
 
-* *December 2022 - April 2024:* Research Internship
-  * [Visual Information Processing and Learning (VIPL) Lab](https://vipl.ict.ac.cn/), [Institute of Computer Technology (ICT)](http://www.ict.cas.cn/), [Chinese Academy of Science (CAS)](https://www.cas.cn/)
-  * Focus: Research in Image Captioning and Multimodal Models
-  * Supervisor: [Prof. Ruiping Wang](http://www.ict.cas.cn/sourcedb/cn/jssrck/201211/t20121113_3682430.html)
-
-* *September 2024 - Present:* Internship
-  * Pattern Recognition Center, WeiChat AI, [Tencent Inc.](https://www.tencent.com/en-us/about.html), China
-  * Focus: Research in multimodal interaction for Large Language Models
+* **Research Intern**, *Pattern Recognition Center, WeChat AI, Tencent Inc., China*
+  * Sep 2024 - Jun 2025
+  * Focus: **Multimodal interaction and reasoning in Large Language Models**
 
 ---
-
-You can find my Chinese CV here: [柯劲帆-简历](../assets/柯劲帆-简历.pdf) (updated as of September 2024).
-
-I also built a git platform to share my homework during my undergraduate studies. You can find it [here](https://typingbugs.email/gitea/explore/repos).
